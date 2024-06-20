@@ -1,4 +1,4 @@
-# CS545 FinalProject - Trivia Pulse
+# Trivia Pulse
 
 ## About Trivia Pulse
 
